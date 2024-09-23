@@ -105,7 +105,7 @@ As an Ambassador for the Chamber of Commerce, my role was pivotal in representin
 
 
 <b>Community Liaison </b> </p> 
-📌Space Coast Technology Councile<br>
+📌Space Coast Technology Council<br>
 📌2011 - 2013 · 2 yrs<br>
 In my role as Community Liaison for the Space Coast Technology Council, I was dedicated to fostering a vibrant technology ecosystem, connecting businesses, and promoting innovation within the community.<br>
 
