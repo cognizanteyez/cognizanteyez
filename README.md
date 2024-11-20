@@ -15,9 +15,9 @@
  
 Hi, I'm Clint Hill. A strategic thinker, exceptional researcher, and dynamic innovator by nature, I’ve always been driven to bridge the gap between technology and business growth. My journey began at the intersection of curiosity and a relentless pursuit of excellence, leading me through an expansive educational path in Systems Engineering, Network Management, Data Analysis, Automation, Machine Learning, and Artificial Intelligence.
 
-Early in my career, I had the privilege of working as a technical contractor for companies like Boeing and Northrop Grumman and agencies such as NavAir, Stricom, DoD, NOAA, and DOI. These experiences laid a strong foundation for my expertise in mission-critical communications, systems engineering, and large program management.
+Early in my career, I had the privilege of working as a technical contractor for large companies and government agency’s. These experiences laid a strong foundation for my expertise in mission-critical communications, systems engineering, and large program management.
 
-Continuous education has been the cornerstone of my career. I started with a foundation in Systems Engineering, sparking my passion for technology. My pursuit of knowledge didn’t stop there; I dove into Artificial Intelligence and Machine Learning at McCombs School of Business and am now enrolled in an MBA program at Ducere. I'm constantly staying ahead with hands-on experience in Project Management, Cloud Computing, Automation, and AI. This learning ethos has expanded my skill set and kept me at the forefront of technological advancements.
+Continuous education has been the cornerstone of my career. I started with a foundation in Systems Engineering, sparking my passion for technology. My pursuit of knowledge didn’t stop there; I recently completed an Artificial Intelligence and Machine Learning post graduate course and am now enrolled in an MBA program. I'm constantly staying ahead with hands-on experience in Project Management, Cloud Computing, Automation, and AI. This learning ethos has expanded my skill set and kept me at the forefront of technological advancements.
 
 Professionally, I've been a catalyst for change and growth across various roles. From ensuring mission-critical communications at Advanced Systems Technologies, Morgan Research, and Rockwell Collins to pioneering business development at Gauntlet Data Security, FracTel, and Spherion, my career has been a testament to identifying opportunities and driving results. My role in developing an automated assistant SaaS and a customer-friendly procurement platform showcases my knack for innovation and solving complex problems.
 
@@ -25,9 +25,7 @@ My stint as a Community Liaison with the Space Coast Technology Council and as a
 
 In every role, I’ve strived to enhance customer experiences, optimize sales, and mentor teams toward achieving excellence. My expertise in strategic partnerships, market analysis, and leveraging AI and machine learning technologies is pivotal in driving business growth and operational efficiency.
 
-## Let's connect and explore how we can drive growth and innovation together.
-
-
+Let's connect and explore how we can drive growth and innovation together.
 
 # EDUCATION
 <p><b>University of East London</b> </p> 
