@@ -13,7 +13,7 @@
 
 # ABOUT
  
-Hi, I'm Clint Hill. A strategic thinker, exceptional researcher, and dynamic innovator by nature, I’ve always been driven to bridge the gap between technology and business growth. My journey began at the intersection of curiosity and a relentless pursuit of excellence, leading me through an expansive educational path in Systems Engineering, Network Management, Data Analysis, Automation, Machine Learning, and Artificial Intelligence.
+Hi, I'm Clint Hill. A reflective leader, strategic thinker, exceptional researcher, and dynamic innovator by nature, I’ve always been driven to bridge the gap between technology and business growth. My journey began at the intersection of curiosity and a relentless pursuit of excellence, leading me through an expansive educational path in Systems Engineering, Network Management, Data Analysis, Automation, Machine Learning, and Artificial Intelligence.
 
 Early in my career, I had the privilege of working as a technical contractor for large companies and government agency’s. These experiences laid a strong foundation for my expertise in mission-critical communications, systems engineering, and large program management.
 
