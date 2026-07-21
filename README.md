@@ -81,6 +81,18 @@ HabitatOS is a Texas-focused land-stewardship platform for property intelligence
 
 > **Historical reconstruction with sample data.** This owner-supplied visual reconstructs a 2012–2016 technology-reseller platform from project records for portfolio context. Product categories, solution packages, vendor programs, quotes, pipeline indicators, workflow stages, and all interface content are fictional sample content. Vendor and brand names appear only for historical context; no endorsement, partnership, current commercial relationship, or current service offering is implied.
 
+## Commercial-Concept Exploration
+
+### RaffZilla — 2025 High-Value-Asset Raffle-Platform Concept
+
+<img src="raffzilla-high-value-asset-raffle-concept.png" alt="Illustrative RaffZilla high-value-asset raffle-platform concept visualization" width="100%" />
+
+> **Non-operational concept visualization.** This owner-supplied image uses fictional sample assets, sample listings, sample campaign metrics, sample entry flows, and illustrative status labels. It does not represent an operating raffle or sweepstakes platform, an available asset listing, available free or paid entry, a payment offering, an identity-verification process, tax or compliance services, or a live drawing.
+
+> **Jurisdictional and legal-review boundary.** Raffles, sweepstakes, contests, paid entries, charitable allocations, registrations, eligibility, tax handling, and promotional claims may be regulated and vary by jurisdiction. This visual is presented for portfolio context only; it is not legal advice, an invitation, or a solicitation to participate. Any real offering would require qualified legal review and compliant implementation before launch.
+
+RaffZilla is a conceptual product visualization exploring how high-value asset campaigns could be organized with visible governance and human review; it is not a current commercial service.
+
 ## Engineering and Prototype Work
 
 ### 3D-Printer Build Visualization
