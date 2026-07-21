@@ -40,7 +40,7 @@ TeamAI is an AI executive-team workspace for founders, consultants, and operator
 
 HabitatOS is a Texas-focused land-stewardship platform for property intelligence, conservation opportunity management, and decision support.
 
-## Historical Digital Innovation, 2006–2012
+## Historical Digital and Technology-Reseller Work, 2006–2016
 
 <img src="early-digital-platform-innovation-timeline.png" alt="Early Digital Platform Innovation 2006 to 2012 historical portfolio timeline" width="100%" />
 
@@ -74,6 +74,12 @@ HabitatOS is a Texas-focused land-stewardship platform for property intelligence
 > **Historical reconstruction with sample data.** This owner-supplied visual is reconstructed from project records for portfolio context. It does not represent a current directory, map product, business listing service, community, or user activity.
 
 </details>
+
+### Gauntlet Data Security — 2012–2016 Technology-Reseller Platform Reconstruction
+
+<img src="gauntlet-data-security-historical-reconstruction.png" alt="Gauntlet Data Security 2012 to 2016 technology-reseller platform historical reconstruction" width="100%" />
+
+> **Historical reconstruction with sample data.** This owner-supplied visual reconstructs a 2012–2016 technology-reseller platform from project records for portfolio context. Product categories, solution packages, vendor programs, quotes, pipeline indicators, workflow stages, and all interface content are fictional sample content. Vendor and brand names appear only for historical context; no endorsement, partnership, current commercial relationship, or current service offering is implied.
 
 ## Engineering and Prototype Work
 
