@@ -14,13 +14,21 @@ I am the founder of [PatternBridge Systems](https://patternbridgesystems.vip), w
 | **Business systems** | Process mapping, operating visibility, requirements, documentation, and implementation planning. |
 | **Execution** | Cross-functional delivery, stakeholder alignment, risk awareness, and usable decision support. |
 
-## Selected Public Work
+## Portfolio Priorities
+
+| Priority | Project | Description | Status |
+|---:|---|---|---|
+| **1** | [PatternBridge Systems](https://patternbridgesystems.vip) | Business improvement, AI, and automation advisory focused on assessment, workflow improvement, operating controls, and implementation support for small and mid-sized businesses. | Active consulting practice |
+| **2** | [TeamAI](https://teamai.vip) | AI executive-team workspace for founders, consultants, and operators who need coordinated specialist support, task execution, and delivery assets. | Live platform |
+| **3** | [HabitatOS](https://habitatos.us) | Texas-focused land-stewardship platform for property intelligence, conservation opportunity management, and decision support. | Live product |
+
+## Selected Public Technical Work
 
 | Project | Description | Status |
 |---|---|---|
-| [Government Contract Opportunity Platform](https://github.com/cognizanteyez/Gov_Contract_Platform) | A Flask-based prototype exploring authenticated opportunity discovery and search against public federal contracting data. | Prototype / learning project |
-| [LSTM Stock Price Forecasting](https://github.com/cognizanteyez/Stock_Price_Next_Day_Open) | A learning project exploring time-series forecasting with PyTorch and LSTM models. It is not investment advice or a production trading system. | Learning project |
-| [PatternBridge Systems](https://patternbridgesystems.vip) | Consulting offers and practical tools for responsible AI adoption and business-systems improvement. | Active business |
+| [Virtual Patriot](https://github.com/cognizanteyez/virtual-patriot) | Historical IoT, edge-device, and cybersecurity systems-visualization prototype documentation. | Historical prototype |
+| [Government Contract Opportunity Platform](https://github.com/cognizanteyez/Gov_Contract_Platform) | Flask-based prototype exploring authenticated opportunity discovery against public federal contracting data. | Prototype / learning project |
+| [LSTM Stock Price Forecasting](https://github.com/cognizanteyez/Stock_Price_Next_Day_Open) | Learning project exploring time-series forecasting with PyTorch and LSTM models; it is not investment advice or a production trading system. | Learning project |
 
 ## Working Principles
 
@@ -31,4 +39,6 @@ Some work is anonymized or not publicly shared to respect client confidentiality
 ## Connect
 
 - [PatternBridge Systems](https://patternbridgesystems.vip)
-- [LinkedIn](https://www.linkedin.com/in/clint-hill/)
+- [TeamAI](https://teamai.vip)
+- [HabitatOS](https://habitatos.us)
+- [LinkedIn](https://www.linkedin.com/in/clinthill)
